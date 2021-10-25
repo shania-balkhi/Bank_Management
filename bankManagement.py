@@ -5,7 +5,7 @@ Spyder Editor
 This is a temporary script file.
 """
 
-
+print("contribution---ignore")
 import mysql.connector as s
 connection=s.connect(host="localhost",user="root",database="mybank",passwd="shania123")
 if connection.is_connected():
